@@ -1,0 +1,16 @@
+/home/caique/DIO/DIO---BootcampAvanade/bin/Debug/net5.0/DIO---BootcampAvanade
+/home/caique/DIO/DIO---BootcampAvanade/bin/Debug/net5.0/DIO---BootcampAvanade.deps.json
+/home/caique/DIO/DIO---BootcampAvanade/bin/Debug/net5.0/DIO---BootcampAvanade.runtimeconfig.json
+/home/caique/DIO/DIO---BootcampAvanade/bin/Debug/net5.0/DIO---BootcampAvanade.runtimeconfig.dev.json
+/home/caique/DIO/DIO---BootcampAvanade/bin/Debug/net5.0/DIO---BootcampAvanade.dll
+/home/caique/DIO/DIO---BootcampAvanade/bin/Debug/net5.0/ref/DIO---BootcampAvanade.dll
+/home/caique/DIO/DIO---BootcampAvanade/bin/Debug/net5.0/DIO---BootcampAvanade.pdb
+/home/caique/DIO/DIO---BootcampAvanade/obj/Debug/net5.0/DIO---BootcampAvanade.csproj.AssemblyReference.cache
+/home/caique/DIO/DIO---BootcampAvanade/obj/Debug/net5.0/DIO---BootcampAvanade.GeneratedMSBuildEditorConfig.editorconfig
+/home/caique/DIO/DIO---BootcampAvanade/obj/Debug/net5.0/DIO---BootcampAvanade.AssemblyInfoInputs.cache
+/home/caique/DIO/DIO---BootcampAvanade/obj/Debug/net5.0/DIO---BootcampAvanade.AssemblyInfo.cs
+/home/caique/DIO/DIO---BootcampAvanade/obj/Debug/net5.0/DIO---BootcampAvanade.csproj.CoreCompileInputs.cache
+/home/caique/DIO/DIO---BootcampAvanade/obj/Debug/net5.0/DIO---BootcampAvanade.dll
+/home/caique/DIO/DIO---BootcampAvanade/obj/Debug/net5.0/ref/DIO---BootcampAvanade.dll
+/home/caique/DIO/DIO---BootcampAvanade/obj/Debug/net5.0/DIO---BootcampAvanade.pdb
+/home/caique/DIO/DIO---BootcampAvanade/obj/Debug/net5.0/DIO---BootcampAvanade.genruntimeconfig.cache

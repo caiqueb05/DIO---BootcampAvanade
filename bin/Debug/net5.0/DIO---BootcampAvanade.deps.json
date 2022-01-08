@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DIO---BootcampAvanade/1.0.0": {
+        "runtime": {
+          "DIO---BootcampAvanade.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DIO---BootcampAvanade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
